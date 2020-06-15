@@ -85,7 +85,9 @@ No nosso ambiente temos 4 servidores com Elasticsearch, um deles é escalado com
 ### Env
 
 **Cluster**: Elasticsearch formado por 4 Servidores
+
 **Kibana**: deve estar conectado a este cluster
+
 **Plugin** : fundamental para fazer interface com o serviço da Aws S3
 
 A versão do Elasticsearch e kibana que estamos utilizando no momento deste tutorial é a 6.5.1.
